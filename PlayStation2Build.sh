@@ -12,7 +12,7 @@ make install
 
 cd ..
 
-git clone https://github.com/raylib4Consoles/raylib -b work
+git clone https://github.com/raylib4Consoles/raylib -b raylib4Consoles_6.0
 cd raylib/src
 make PLATFORM=PLATFORM_PLAYSTATION2
 make PLATFORM=PLATFORM_PLAYSTATION2 install
