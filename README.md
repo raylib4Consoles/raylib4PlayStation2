@@ -40,6 +40,7 @@ This was a middleware partner for official developers, no information about it.
 
 Change log
 ===========================
+ - 22/4/2026 sync with raylib 6.0 and incorporated changes from @meisei4
  - 19/9/2025 Initial raylib4PlayStation2 public release
  - 31/3/2025 my 50th birthday first public info about the port at [psxdev](https://x.com/psxdev/status/1906701723848081410)
  
@@ -49,6 +50,7 @@ Change log
   
  - @raysan5 for his amazing work with raylib and raylib has an incredible community developing in the open way!!!! 
  - @frangar @fjtrujy @psxdev aka "los nenes"
+ - @meisei4 for changes to let better support
  - all people involved in homebrew tools and libraries for PlayStation 2.
 
  
